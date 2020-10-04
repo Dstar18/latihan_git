@@ -1,0 +1,11 @@
+//update dari local ke github
+git status
+
+git add .
+
+git commit -m "komentar"
+
+git push
+
+//Update dari github ke vscode
+git pull
